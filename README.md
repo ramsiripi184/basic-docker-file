@@ -1,6 +1,3 @@
-#
-# Dockerfile for bro
-#
 
 FROM debian:jessie
 MAINTAINER kev <noreply@easypi.pro>
